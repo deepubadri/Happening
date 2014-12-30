@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Get the nearest restaurants!!</string>
+    <string name="app_name">Happening !!!</string>
+    <string name="restaurants">Nearest Restaurants</string>
+    <string name="register">Reviews</string>
+     <string name="self_destruct">Self Destruct</string>
+      <string name="hi">Self Destruct</string>
+      <string name="Find"></string>
+      <string name="FindPlaces">Find</string>
+
+</resources>
